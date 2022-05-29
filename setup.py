@@ -30,6 +30,7 @@ def Install():
     os.mkdir(rootPath+"/static/data/analytics")
     os.mkdir(rootPath+"/static/images/icons")
     os.mkdir(rootPath+"/static/storage/specials")
+    os.mkdir(rootPath+"/static/storage/specials/thumbnails")
     os.mkdir(rootPath+"/ffmpeg")
     os.mkdir(rootPath+"/input")
     os.mkdir(rootPath+"/output")
