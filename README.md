@@ -1,5 +1,5 @@
 
-Get started
+Get Started
 
     #Install the app and downloading rquirements from requirements.txt
     python setup.py
@@ -9,7 +9,7 @@ Get started
     #Visit your new tube
     http://localhost:5005
 
-Get started
+Setup Database
 
     #Install the app and downloading rquirements from requirements.txt
     python setup.py
