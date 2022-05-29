@@ -1,10 +1,15 @@
-Get Started<br>
-  #Get Started:<br>
-  Run: python setup.py<br>
-  Enter command: "-install"<br>
-  Run: python freeVoD.py<br>
-  Enter command: "-start" to start the server<br>
-  <br>
+<br>
+Get started
+
+    #Install the app and downloading rquirements from requirements.txt
+    python setup.py
+
+    #Run the server
+    python njoyporn.py
+
+    #Visit your new tube
+    http://localhost:5001
+<br>
 Add Data to Database:<br>  
   #Add Data to Database:<br>
   Copy the video files to /static/storage/speacials/<br>
