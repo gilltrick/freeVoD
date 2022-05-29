@@ -9,26 +9,26 @@ Get started
     #Visit your new tube
     http://localhost:5005
 
+Get started
 
-Set up the database
+    #Install the app and downloading rquirements from requirements.txt
+    python setup.py
+    #Run the server
+    python freeVoD.py
+    Enter command: "-start"
+    #Visit your new tube
+    http://localhost:5005
 
-  #Set up you database
-  Copy the video files to /static/storage/speacials/
-  Run: python freeVoD.py
-  Enter command: "-database"
-  Enter command: "-addall"
-  Enter command: "-yes"
+Get started
 
+    #Install the app and downloading rquirements from requirements.txt
+    python setup.py
+    #Run the server
+    python freeVoD.py
+    Enter command: "-start"
+    #Visit your new tube
+    http://localhost:5005
 
-
-Convert files:
-
-  #Converter<br>
-  Copy the video files to /input/<br>
-  Run: python freeVoD.py<br>
-  Enter command: "-converter"<br>
-  #Converted files
-  Converted files saved in /output/
 
 Set up a users
 
