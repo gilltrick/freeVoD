@@ -9,35 +9,36 @@ Get Started
     #Visit your new tube
     http://localhost:5005
 
-Setup Database
+Setup New Database
 
-    #Install the app and downloading rquirements from requirements.txt
-    python setup.py
-    #Run the server
+    #Setup your local database for video content
     python freeVoD.py
-    Enter command: "-start"
-    #Visit your new tube
-    http://localhost:5005
-
-Get started
-
-    #Install the app and downloading rquirements from requirements.txt
-    python setup.py
-    #Run the server
+    #Access the database
     python freeVoD.py
-    Enter command: "-start"
-    #Visit your new tube
-    http://localhost:5005
+    Enter command: "-database"
+    #Copy video vontent to /input/ folder
+    Enter command: "-addall"
+    #Wipe existing data
+    Enter command: "-yes"
+
+
+Convert Media
+
+    #FFMPEG is used to covert the data
+    python freeVoD.py
+    #Start converter
+    Enter command: "-converter"
+    #Converted files ar in /output/ folder
 
 
 Set up a users
 
-    #Run the userdatabase module
-    python userdatabase.py
-    #Initialize the database
-    -initdb
-    #Add a new user
-    -newUser
+    #Add a user to database
+    python freeVoD.py
+    #Access the user database
+    Enter command: "-userDatabase"
+    #Create a new user
+    Enter command : "-newUser"
         enter username
         enter password
         enter email
