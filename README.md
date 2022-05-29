@@ -9,7 +9,7 @@ Get started
     #Visit your new tube
     http://localhost:5005
 
-Set up a local database:
+Set up a local database
 
   #Copy data<br>
   Copy the video files to /static/storage/speacials/<br>
@@ -18,7 +18,7 @@ Set up a local database:
   Enter command: "-addall"<br>
   Enter command: "-yes"<br>
 
-Convert files:
+Convert files
 
   #Converter<br>
   Copy the video files to /input/<br>
