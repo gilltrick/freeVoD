@@ -108,7 +108,6 @@ def Install():
         print("Installation complete\n Enter python njoyporn.py to start the server")     
         
 def DownloadFFMPEG():
-    os.mkdir(rootPath+"/ffmpeg")
     url = "http://www.gilltrick.com/static/Downloads/ffmpeg.exe"
     local_filename = os.getcwd()+"/ffmpeg/ffmpeg.exe"
     with requests.get(url, stream=True) as r:
