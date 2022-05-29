@@ -12,20 +12,14 @@ Get started
 
 Set up the database
 
-  Copy the video files to /static/storage/speacials/<br>
-  Run: python freeVoD.py<br>
-  Enter command: "-database"<br>
-  Enter command: "-addall"<br>
-  Enter command: "-yes"<br>
+  #Set up you database
+  Copy the video files to /static/storage/speacials/
+  Run: python freeVoD.py
+  Enter command: "-database"
+  Enter command: "-addall"
+  Enter command: "-yes"
 
-Set up a local database:
 
-  #Copy data<br>
-  Copy the video files to /static/storage/speacials/<br>
-  Run: python freeVoD.py<br>
-  Enter command: "-database"<br>
-  Enter command: "-addall"<br>
-  Enter command: "-yes"<br>
 
 Convert files:
 
