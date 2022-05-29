@@ -1,17 +1,20 @@
-#Get Started:
-  Run: python setup.py
-  Enter command: "-install"
-  Run: python freeVoD.py
-  Enter command: "-start" to start the server
-  
-#Add Data to Database:
-  Copy the video files to /static/storage/speacials/
-  Run: python freeVoD.py
-  Enter command: "-database"
-  Enter command: "-addall"
-  Enter command: "-yes"
-  
-#Converter:
-  Copy the video files to /input/
-  Run: python freeVoD.py
-  Enter command: "-converter"
+Get Started<br>
+  #Get Started:<br>
+  Run: python setup.py<br>
+  Enter command: "-install"<br>
+  Run: python freeVoD.py<br>
+  Enter command: "-start" to start the server<br>
+  <br>
+Add Data to Database:<br>  
+  #Add Data to Database:<br>
+  Copy the video files to /static/storage/speacials/<br>
+  Run: python freeVoD.py<br>
+  Enter command: "-database"<br>
+  Enter command: "-addall"<br>
+  Enter command: "-yes"<br>
+  <br>
+Converter:<br>
+  #Converter:<br>
+  Copy the video files to /input/<br>
+  Run: python freeVoD.py<br>
+  Enter command: "-converter"<br>
