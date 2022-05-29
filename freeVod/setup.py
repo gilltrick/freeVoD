@@ -42,7 +42,6 @@ def Install():
     Path(rootPath+"/_data/impressum.html").rename(rootPath+"/templates/impressum.html")
     Path(rootPath+"/_data/videoPlayer.html").rename(rootPath+"/templates/videoPlayer.html")
     Path(rootPath+"/_data/loginStyle.css").rename(rootPath+"/static/styles/loginStyle.css")
-    Path(rootPath+"/_data/indexStyle.css").rename(rootPath+"/static/styles/indexStyle.css")
     Path(rootPath+"/_data/homeStyle.css").rename(rootPath+"/static/styles/homeStyle.css")
     Path(rootPath+"/_data/VideoPlayerStyle.css").rename(rootPath+"/static/styles/VideoPlayerStyle.css")
     Path(rootPath+"/_data/Rhiledia.ttf").rename(rootPath+"/static/styles/Rhiledia.ttf")
