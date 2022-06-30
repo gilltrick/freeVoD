@@ -44,7 +44,7 @@ def Install():
     Path(rootPath+"/_data/videoPlayer.html").rename(rootPath+"/templates/videoPlayer.html")
     Path(rootPath+"/_data/loginStyle.css").rename(rootPath+"/static/styles/loginStyle.css")
     Path(rootPath+"/_data/homeStyle.css").rename(rootPath+"/static/styles/homeStyle.css")
-    Path(rootPath+"/_data/VideoPlayerStyle.css").rename(rootPath+"/static/styles/VideoPlayerStyle.css")
+    Path(rootPath+"/_data/videoPlayerStyle.css").rename(rootPath+"/static/styles/videoPlayerStyle.css")
     Path(rootPath+"/_data/Rhiledia.ttf").rename(rootPath+"/static/styles/Rhiledia.ttf")
     Path(rootPath+"/_data/Ayrton Pight.ttf").rename(rootPath+"/static/styles/Ayrton Pight.ttf")
     Path(rootPath+"/_data/yuruy.otf").rename(rootPath+"/static/styles/yuruy.oft")
