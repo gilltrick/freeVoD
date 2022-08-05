@@ -16,7 +16,7 @@ Setup New Database
     #Access the database
     python freeVoD.py
     Enter command: "-database"
-    #Copy video vontent to /input/ folder
+    #Copy video content to /input/ folder
     Enter command: "-addall"
     #Wipe existing data
     Enter command: "-yes"
@@ -28,7 +28,7 @@ Convert Media
     python freeVoD.py
     #Start converter
     Enter command: "-converter"
-    #Converted files ar in /output/ folder
+    #Converted files are in /output/ folder
 
 
 Set up a users
