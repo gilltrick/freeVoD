@@ -16,7 +16,7 @@ Setup New Database
     #Access the database
     python freeVoD.py
     Enter command: "-database"
-    #Copy video content to /input/ folder
+    #Copy video content to /static/storage/specials/ folder
     Enter command: "-addall"
     #Wipe existing data
     Enter command: "-yes"
