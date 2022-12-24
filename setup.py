@@ -53,7 +53,7 @@ def Install():
     Path(rootPath+"/_data/expand.svg").rename(rootPath+"/static/images/icons/expand.svg")
     Path(rootPath+"/_data/expandd.svg").rename(rootPath+"/static/images/icons/expandd.svg")
     Path(rootPath+"/_data/forward.svg").rename(rootPath+"/static/images/icons/forward.svg")
-    Path(rootPath+"/_data/LeftArrow_black.png").rename(rootPath+"/static/images/icons/LeftArrowpng_black.png")
+    Path(rootPath+"/_data/LeftArrow_black.png").rename(rootPath+"/static/images/icons/LeftArrow_black.png")
     Path(rootPath+"/_data/pause.svg").rename(rootPath+"/static/images/icons/pause.svg")
     Path(rootPath+"/_data/play.svg").rename(rootPath+"/static/images/icons/play.svg")
     Path(rootPath+"/_data/reduce.svg").rename(rootPath+"/static/images/icons/reduce.svg")
